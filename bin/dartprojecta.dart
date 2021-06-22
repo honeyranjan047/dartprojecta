@@ -1,9 +1,10 @@
 void main(List<String> arguments) {
-  int marks = 78;
-  var name = 'Honey Ranjan Singh';
-  late int mark;
-  print(name);
-  mark = 69;
-  print(mark);
+ final int age = 56;
+ const String name = 'Manish';
+
+
+
+ print(age);
+ print(name);
 
 }
